@@ -34,7 +34,7 @@
 
 
 
-# 🛠️ Languages & Tools
+# 🛠️ Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
