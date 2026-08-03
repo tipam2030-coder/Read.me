@@ -6,17 +6,22 @@
 </p>
 
 
-
+📂 assets
+ └── cisco-it-support-basic-icon.png
 
 ## 🏆 SYSTEM ACHIEVEMENTS
 
 ## 🏆 Cisco Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-IT%20Support%20Basic-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IT Support Basic"/>
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Cybersecurity"/>
-</p>
+  <a href="https://www.credly.com/badges/93861e6e-9cd4-43eb-a567-c1ec58658105/public_url" target="_blank">
+    <img src="./assets/cisco-it-support-basic-icon.png" height="90" alt="Cisco IT Support Basic"/>
+  </a>
 
+  <a href="YOUR_INTRODUCTION_TO_CYBERSECURITY_CREDLY_URL" target="_blank">
+    <img src="./assets/cisco-introduction-to-cybersecurity-icon.png" height="90" alt="Introduction to Cybersecurity"/>
+  </a>
+</p>
 
 # 🛠️ Languages
 
