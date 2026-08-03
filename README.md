@@ -23,7 +23,7 @@
 
 <a href="https://www.credly.com/badges/93861e6e-9cd4-43eb-a567-c1ec58658105/public_url">
 
-  <img src="badges/it-customer-support-basics.png" width="180"/>
+  <img src="blob.png" width="180"/>
 </a>
 
 <img src="badges/introduction-to-cybersecurity.png" width="180"/>
