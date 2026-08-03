@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christopher Allen Jumapit</h1>
-<h3 align="center">BS Information Technology Student | Java Developer | Cybersecurity Learner</h3>
+<h1 align="center">Hi 👋, I'm Christoff Allen Jumapit</h1>
+<h3 align="center">BS Information Technology Student | Junior Java Developer | Cybersecurity Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Developer;Cybersecurity+Learner;Always+Learning+New+Things" />
@@ -64,9 +64,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Cisco+Certified;Always+Learning;Welcome+to+my+GitHub!" />
+  <img src="https://media.tenor.com/your-gif.gif" width="800"/>
 </p>
----
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
