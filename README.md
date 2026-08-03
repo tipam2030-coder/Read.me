@@ -14,7 +14,6 @@
 
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/matrix.gif" width="100%" alt="Matrix Animation">
 </p>
-
 
