@@ -40,13 +40,3 @@
 </p>
 
 
-# 🛠️ Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
-</p>
-
-
-<p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
