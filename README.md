@@ -16,3 +16,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=01001000+01100101+01101100+01101100+01101111;Building+Software...;Learning+Cybersecurity...;Learning+Java...;Learning+Databases..."/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=01001000+01100101+01101100+01101100+01101111;Building+Software...;Learning+Cybersecurity...;Learning+Java...;Learning+Databases..."/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=01001000+01100101+01101100+01101100+01101111;Building+Software...;Learning+Cybersecurity...;Learning+Java...;Learning+Databases..."/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=01001000+01100101+01101100+01101100+01101111;Building+Software...;Learning+Cybersecurity...;Learning+Java...;Learning+Databases..."/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=01001000+01100101+01101100+01101100+01101111;Building+Software...;Learning+Cybersecurity...;Learning+Java...;Learning+Databases..."/>
+</p>
