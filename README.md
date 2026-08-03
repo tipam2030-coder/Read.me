@@ -30,7 +30,13 @@
 
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Junior+Java+Learner;IT+Support+Basic+Certified;Always+Locked+In;Building+Skills+One+Commit+at+a+Time" />
+</p>
+
 ---
+
+
 
 
 
@@ -63,9 +69,7 @@
 
 
 
-<p align="center">
-  <img src="https://media.tenor.com/your-gif.gif" width="800"/>
-</p>
+
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
