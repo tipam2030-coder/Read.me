@@ -62,10 +62,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph">
+  <img src="https://media.tenor.com/your-gif.gif" width="800"/>
 </p>
 
 ---
