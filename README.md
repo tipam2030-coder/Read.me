@@ -2,27 +2,32 @@
 <h3 align="center">BS Information Technology Student | Java Developer | Cybersecurity Learner</h3>
 
 <p align="center">
-  💻 Passionate about Programming, Databases, and Cybersecurity
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Developer;Cybersecurity+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 BS Information Technology Student
-- 🌱 Currently learning **Java, Python, SQL, HTML, CSS, JavaScript**
-- 🔒 Interested in **Cybersecurity**
-- ⚡ Goal: Become a Full-Stack Developer & Cybersecurity Professional
+- 💻 Learning Java, Python, SQL, HTML, CSS & JavaScript
+- 🔒 Interested in Cybersecurity
+- 🌱 Currently improving my programming and problem-solving skills
+- 🎯 Goal: Become a Full-Stack Developer & Cybersecurity Professional
 
 ---
 
 ## 🏆 Cisco Networking Academy Badges
 
-### Introduction to Cybersecurity
+<p align="center">
 
-[![Introduction to Cybersecurity](https://images.credly.com/size/340x340/images/93861e6e-9cd4-43eb-a567-c1ec58658105.png)](https://www.credly.com/badges/93861e6e-9cd4-43eb-a567-c1ec58658105/public_url)
+<a href="https://www.credly.com/badges/93861e6e-9cd4-43eb-a567-c1ec58658105/public_url">
+<img src="badges/it-customer-support-basics.png" width="180"/>
+</a>
 
-> Add your other Cisco badges below in the same format once you get their badge IDs.
+<img src="badges/introduction-to-cybersecurity.png" width="180"/>
+
+</p>
 
 ---
 
@@ -37,14 +42,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -64,6 +79,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-⭐ Thanks for visiting my GitHub Profile!
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
