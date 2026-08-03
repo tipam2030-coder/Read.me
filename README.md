@@ -32,12 +32,13 @@
 
 ---
 
-## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github,vscode,linux" />
+
+# 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
