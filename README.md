@@ -60,14 +60,12 @@
 
 </p>
 
----
 
 
 
 <p align="center">
-  <img src="https://media.tenor.com/your-gif.gif" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Cisco+Certified;Always+Learning;Welcome+to+my+GitHub!" />
 </p>
-
 ---
 
 <p align="center">
